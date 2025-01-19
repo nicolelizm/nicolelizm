@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nicolelizm
-- 👀 I’m interested in cybersecurity!
 - 🌱 I’m currently learning Red Hat System Administration
 - 😄 Pronouns: she/her
 <!---
